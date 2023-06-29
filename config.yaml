@@ -2,7 +2,7 @@
  # MCP Variables: Set your account, dataset, datafield and SSC name variables
  # =============================================================================
 ---
- account: partnertodca.us-4 
+ account: partnertodca
  dataset: disharma 
  uid_campaign: Retrieve Attributes Campaign
  promo_campaign: Next Best Promotion Campaign
