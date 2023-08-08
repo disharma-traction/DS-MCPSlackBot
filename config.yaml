@@ -4,7 +4,7 @@
 ---
  account: partnertodca.us-4
  dataset: disharma 
- uid_campaign: Retrieve Attributes Campaign
- promo_campaign: Next Best Promotion Campaign
- promo_datafield: promotions # promos
+ uid_campaign: Slack User Profile ID Lookup
+ promo_campaign: Next Best Action - SST
+ promo_datafield: promos # promos
  uid_datafield: attributes #attributes
