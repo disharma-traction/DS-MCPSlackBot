@@ -6,5 +6,5 @@
  dataset: disharma 
  uid_campaign: Slack User Profile ID Lookup
  promo_campaign: Next Best Action - SST
- promo_datafield: promos # promos
+ promo_datafield: promotions # promos
  uid_datafield: attributes #attributes
